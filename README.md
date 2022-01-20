@@ -1,6 +1,6 @@
-#Hello Git and Github#
+# Hello Git and Github
 
-##This is some extra text **I wrote**##
+## This is some extra text **I wrote**
 
-+to practice my markdown+
-+to have some fun+
++ to practice my markdown
++ to have some fun
