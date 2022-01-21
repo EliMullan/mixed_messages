@@ -59,4 +59,11 @@ const randomGenerator = arr => {
     return arr[randomIndex];
 }
 
-console.log(`${randomGenerator(messages1)} ${randomGenerator(messages2)} ${randomGenerator(messages3)}`);
+const starTrekAnswer = () => {
+    let question = document.getElementById('question').value;
+    let answer = document.getElementById('answer');
+   return question.length < 5 ? 
+   answer.innerHTML = `In order to get your answer, you must first ask your question.`:
+   answer.innerHTML = `${randomGenerator(messages1)} ${randomGenerator(messages2)} <br> ${randomGenerator(messages3)}`;    
+}
+
