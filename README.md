@@ -4,7 +4,7 @@
 
 ### 1. Understand the Project
   + My project has put together a list of famous lines from Star Trek Enterprise .
-  +  You ask your question, and beyon space and time a wise answer will be sent back to you. 
+  +  You ask your question, and beyond space and time a wise answer will be sent back to you. 
   + ![Capture](ProjectCapture.JPG)
 
 
