@@ -3,10 +3,10 @@
 ### Update : Culdn't find available people within my timeframe so I did it on my own . 
 
 ### 1. Understand the Project
-  + Create a mixed message Star Treck Enterprise  Q&A
-  + Turn the app in an interactive website 
-  + User inserts a question on website
-  + An aswer is randomly picked from many famous quotes of Star Trek officers
+  + My project has put together a list of famous lines from Star Trek Enterprise .
+  +  You ask your question, and beyon space and time a wise answer will be sent back to you. 
+  + ![Capture](ProjectCapture.JPG)
+
 
 ### 2. Find Your Teammates
   **Sources:**
