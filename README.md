@@ -5,7 +5,7 @@
       + Full Stack Path 19%
       + Ireland GMT + 0 
       + [CodeCademy profile](https://www.codecademy.com/profiles/eliMullan4680333172)
-      + >Just because we can't see them, doesn't mean they are not there :grin: 
+      + > Space, the final frontier… 
 
 ## Project steps : 
 
